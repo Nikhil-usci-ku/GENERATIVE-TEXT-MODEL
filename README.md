@@ -57,7 +57,12 @@ This Python script demonstrates the process of fine-tuning a pre-trained GPT-2 l
 * Scalability: The Hugging Face Trainer and pipeline abstractions make it easy to scale this process to larger datasets and more complex models.
 
 
-
+### Features
+* GPT-2 Fine-tuning: Directly fine-tunes a pre-trained GPT-2 model on a custom dataset.
+* WikiText-2 Dataset Integration: Utilizes a subset of the WikiText-2 dataset for language model training.
+* GPU Accelerated Training: Automatically leverages GPU (with FP16 support) for efficient and faster model training.
+* Hugging Face Ecosystem: Employs the Trainer API for streamlined training and the pipeline for easy text generation.
+* Interactive Text Generation: Provides a command-line interface for users to generate text in real-time using the fine-tuned model.
 
 
 
