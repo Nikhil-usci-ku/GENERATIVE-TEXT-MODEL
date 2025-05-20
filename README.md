@@ -24,7 +24,7 @@ This Python script demonstrates the process of fine-tuning a pre-trained GPT-2 l
 
 1. Environment Setup and Device Selection:
   * The script begins by importing necessary libraries from transformers, datasets, and torch.
-  * It intelligently checks for the availability of a CUDA-enabled GPU and sets the torch.device accordingly, ensuring that computations are performed on the GPU for faster training if available, otherwise defaulting to the CPU. This is crucial for efficient deep learning.
+    * It intelligently checks for the availability of a CUDA-enabled GPU and sets the torch.device accordingly, ensuring that computations are performed on the GPU for faster training if available, otherwise defaulting to the CPU. This is crucial for efficient deep learning.
 
 2. Dataset Loading and Preparation:
 
