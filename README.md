@@ -64,6 +64,23 @@ This Python script demonstrates the process of fine-tuning a pre-trained GPT-2 l
 * Hugging Face Ecosystem: Employs the Trainer API for streamlined training and the pipeline for easy text generation.
 * Interactive Text Generation: Provides a command-line interface for users to generate text in real-time using the fine-tuned model.
 
+## Prerequisites
+> Python 3.12
+
+## Installation
+Clone the repository (or download the zip file):
+
+`git clone https://github.com/Nikhil-usci-ku/GENERATIVE-TEXT-MODEL.git`
+
+`cd GENERATIVE-TEXT-MODEL`
+
+Install the necessary Python libraries provided in requirements.txt file:
+
+`pip install -r requirements.txt`
+
+> The script will attempt to download required models automatically upon first run.
+
+## Running
 
 
 
