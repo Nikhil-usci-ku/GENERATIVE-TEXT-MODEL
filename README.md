@@ -82,25 +82,18 @@ Install the necessary Python libraries provided in requirements.txt file:
 
 ## Running
 
+Run the Python script Task4.py directly.
+
+Enter the prompt to generate coherent paragraphs. 
+
+## Output
+
+* User Input
+![image](https://github.com/user-attachments/assets/8de9e3a3-ae9f-401c-acf4-3c0354c66948)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Generated Output
+![image](https://github.com/user-attachments/assets/158d397b-67f7-4d22-9fcf-32346b5782ed)
 
 
 
